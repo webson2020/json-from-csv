@@ -1,0 +1,21 @@
+{
+  "name": "isq-risk-brainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvToJson.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "brain.js": "^2.0.0-beta.20",
+    "csvtojson": "^2.0.10",
+    "is-utf8": "^0.2.1",
+    "js": "^0.1.0",
+    "lodash": "^4.17.21",
+    "strip-bom": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
